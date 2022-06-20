@@ -1,0 +1,1 @@
+@extends('font.font-master')
